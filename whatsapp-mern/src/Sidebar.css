@@ -1,0 +1,15 @@
+.sidebar__headerRight> .MuiSvgIcon-root{
+    margin-right: 2vw;
+    font-size: 24px !important;
+}
+
+.sidebar__searchContainer > .MuiSvgIcon-root {
+    color:gray;
+    padding: 3px;
+}
+.sidebar__chat {
+    flex: 2;
+}
+.sidebar__chat::-webkit-scrollbar{
+    display: none;
+}
