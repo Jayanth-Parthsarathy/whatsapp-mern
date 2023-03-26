@@ -15,3 +15,8 @@
 .chat__body::-webkit-scrollbar {
     display: none;
 }
+
+.received {
+    margin-left: auto;
+    background-color: greenyellow;
+}
